@@ -1,2 +1,2 @@
-# CloneSpotify
- 
+# spotifyClone
+ Repositório do Spotify 
