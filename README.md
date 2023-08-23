@@ -1,2 +1,0 @@
-# spotifyClone
- Repositório do Spotify 
